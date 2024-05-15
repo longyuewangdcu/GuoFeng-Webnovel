@@ -19,6 +19,10 @@ Specifically,
 - **GuoFeng Webnovel Corpus v1:** a in-domain, discourse-level and human-translated training dataset with sentence-level alignment for Chinese→English.
 - **GuoFeng Webnovel Corpus v2:** two in-domain and discourse-level training dataset for Chinese→German and Chinese→Russian.
 
+## News
+
+- \[15/05/2024\] 🎉🎉🎉 GuoFeng is online now 🎉🎉🎉  
+
 ## Copyright and Licence
 Copyright is a crucial consideration when it comes to releasing literary texts, and we (Tencent AI Lab and China Literature Ltd.) are the rightful copyright owners of the web fictions included in this dataset. We are pleased to make this data available to the research community, subject to certain terms and conditions.
 
