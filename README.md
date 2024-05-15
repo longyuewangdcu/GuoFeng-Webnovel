@@ -59,7 +59,11 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 | Test  |1	|26	      |22	697	   |same books with Train |
 | Valid |2	|10	      |10	853	   |different books with Train |
 | Test  |2	|12	      |12	917	   |different books with Train |
-| Testing Input |	12|239|	16,742 |different books with Train, super-long documents |
+| Testing Input | - | - | - | - |
+
+[**Click here to download the corpus (via Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSeopt1UqpJXoRysLtxJW7ZzHeVvBEyHjqFN_pebWG_jlF9Ahw/viewform?usp=sf_link)
+[**Click here to download the corpus (via Tencent Form)**](https://docs.qq.com/form/page/DSWttd3pkR3RZdWtj)
+
 
 ### Data Format
 Taking "train.en" for exaple, the data format is shown as follows: <font color=red> &lt;BOOK id=""&gt; &lt;/BOOK&gt; </font> indicates a book boundary, which contains a number of continous chapters with the tag <font color=blue> \<CHAPTER id=""\> \</CHAPTER\></font>. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
