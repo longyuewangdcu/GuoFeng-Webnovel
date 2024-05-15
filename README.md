@@ -6,8 +6,8 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/License-CC%20BY%204.0-green.svg" alt="License">
-<img src="https://img.shields.io/github/stars/lyuchenyang/Macaw-LLM?color=yellow" alt="Stars">
-<img src="https://img.shields.io/github/issues/lyuchenyang/Macaw-LLM?color=red" alt="Issues">
+<img src="https://img.shields.io/github/stars/longyuewangdcu/GuoFeng-Webnovel?color=yellow" alt="Stars">
+<img src="https://img.shields.io/github/issues/longyuewangdcu/GuoFeng-Webnovel?color=red" alt="Issues">
 
 
 <div align="left">  
