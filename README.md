@@ -2,7 +2,7 @@
   <img src="/img/logo.jpg" alt="Logo" width="600">
 </div>
 
-# GuoFeng Webnovel: A Discourse-Level and Multilingual Corpus of Web Fiction
+# 🀄 GuoFeng Webnovel: A Discourse-Level and Multilingual Corpus of Web Fiction
 
 <div align="center">
 <img src="https://img.shields.io/badge/License-CC%20BY%204.0-green.svg" alt="License">
@@ -13,15 +13,16 @@
 <div align="left">  
 
 
-GuoFeng Webnovel is a discourse-level and multilingual corpus of web fiction in three directions: **Chinese→English**, **Chinese→German**, **Chinese→Russian**.
-Specifically,
+GuoFeng Webnovel is a discourse-level and multilingual corpus of web fiction in three directions: **Chinese→English**, **Chinese→German**, **Chinese→Russian**.  
 
+Specifically： 
 - **GuoFeng Webnovel Corpus v1:** a in-domain, discourse-level and human-translated training dataset with sentence-level alignment for Chinese→English.
 - **GuoFeng Webnovel Corpus v2:** two in-domain and discourse-level training dataset for Chinese→German and Chinese→Russian.
 
-## News
+## News 🤩🤩🤩
 
 - \[15/05/2024\] 🎉🎉🎉 GuoFeng is online now 🎉🎉🎉  
+
 
 ## Copyright and Licence
 Copyright is a crucial consideration when it comes to releasing literary texts, and we (Tencent AI Lab and China Literature Ltd.) are the rightful copyright owners of the web fictions included in this dataset. We are pleased to make this data available to the research community, subject to certain terms and conditions.
@@ -31,7 +32,7 @@ Copyright is a crucial consideration when it comes to releasing literary texts, 
 - 🔒 Modifying or redistributing the dataset is strictly prohibited. If you plan to make any changes to the dataset, such as adding more annotations, with the intention of publishing it publicly, please contact us first to obtain written consent.    
 - 🚧 By using this dataset, you agree to the terms and conditions outlined above. We take copyright infringement very seriously and will take legal action against any unauthorized use of our data.  
 
-### Important!
+### Important❗❗❗
 📝 If you use the GuoFeng Webnovel Corpus, please cite the following papers and claim the original download link:
 
 - [1] Longyue Wang, Zhaopeng Tu, Yan Gu, Siyou Liu, Dian Yu, Qingsong Ma, Chenyang Lyu, Liting Zhou, Chao-Hong Liu, Yufeng Ma, Weiyu Chen, Yvette Graham, Bonnie Webber, Philipp Koehn, Andy Way, Yulin Yuan, Shuming Shi. Findings of the WMT 2023 shared task on discourse-level literary translation: A fresh orb in the cosmos of LLMs. Proceedings of the Eighth Conference on Machine Translation (WMT). 2023.
@@ -58,7 +59,7 @@ Copyright is a crucial consideration when it comes to releasing literary texts, 
 1. some sentences may have no aligned translations because human translators translate novels in a document way;
 2. we keep all document-level information such as continuous chapters and sentences.
 
-### Download  
+### Download  ⏬
 We release 22,567 continuous chapters from 179 web novels, covering 14 genres such as fantasy science and romance. The data statistics are listed in Table 1.
 
 | Table1   | Book | Chapter | Sentence | Notes |
@@ -74,7 +75,7 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 [**Click here to download the corpus (via Tencent Form)**](https://docs.qq.com/form/page/DSWttd3pkR3RZdWtj)  
 
 
-### Data Format
+### Data Format 💾
 Taking "train.en" for exaple, the data format is shown as follows: <font color=red> &lt;BOOK id=""&gt; &lt;/BOOK&gt; </font> indicates a book boundary, which contains a number of continous chapters with the tag <font color=blue> \<CHAPTER id=""\> \</CHAPTER\></font>. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
 
 ```HTML
@@ -94,7 +95,7 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 ## Data Description (GuoFeng Webnovel Corpus V2)
 
 
-## Pretrained Models
+## Pretrained Models 
 We provide three types of in-domain pretrained models (same as last year) and large language models (new in this year):
 
 | Version | Layer | Hidden Size | Vocab | Continuous Train |
@@ -103,7 +104,7 @@ We provide three types of in-domain pretrained models (same as last year) and la
 | [RoBERTa](https://www.dropbox.com/sh/1qvukp4cmhp36t4/AABKjGLa9rmDs-NQkA0zWHoKa?Submit=Click+here+to+download+the+models) | base | 12 enc | 768 | 21128 |
 | Chinese literary text (84B tokens) | mBARTCC25 | 12 enc + 12 dec | 1024 | 250000 |
 
-## Evaluation 
+## Evaluation 🔢
 
 - 🤖 Automatic Evaluation: To evaluate the performance of the well-trained models, we will report multiple evaluation metrics, including d-BLEU (document-level sacreBLEU), d-COMET (document-level COMET) to measure the overall accuracy and fluency of the translations.
 
@@ -111,8 +112,8 @@ We provide three types of in-domain pretrained models (same as last year) and la
 
 - 👨‍👩‍👧‍👦 A/B Testing: Acknowledging the concern that there is no single, universally preferred translation for literary texts, we ask human readers or LLMs to select their preferred contents in practical application scenarios.
 
-## Committee
-### Organization Team
+## Committee 
+### Organization Team 🧑🏻‍💼
 [Longyue Wang](http://longyuewang.com/) ([vincentwang0229@gmail.com](mailto:vincentwang0229@gmail.com)) (Tencent AI Lab)  
 [Zhaopeng Tu](http://www.zptu.net/) (Tencent AI Lab)  
 [Wenxiang Jiao](https://wxjiao.github.io/) (Tencent AI Lab)  
@@ -121,21 +122,21 @@ Jiahao Xu (Tencent AI Lab)
 [Yan Gu](https://github.com/drow931) (China Literature Limited)  
 Weiyu Chen (China Literature Limited)  
 
-### Evaluation Team
+### Evaluation Team 🧑‍🏫 
 [Siyou Liu](https://fah.um.edu.mo/liu-siyou-%E5%88%98%E6%80%9D%E4%BD%91) ([helen.liu103@gmail.com](mailto:helen.liu103@gmail.com)) (University of Macau)  
 [Minghao Wu](https://minghao-wu.github.io/) (Monash University)  
 [Liting Zhou](https://www.dcu.ie/computing/people/liting-zhou) (Dublin City University)  
 
-### Advisory Committee
+### Advisory Committee 🫅 
 [Philipp Koehn](https://www.cs.jhu.edu/~phi) (Johns Hopkins University)  
 [Andy Way](https://www.adaptcentre.ie/experts/andy-way) (Dublin City University)  
 [Yulin Yuan](https://fah.um.edu.mo/yuan-yulin) (University of Macau)  
 
-### Contact
+### Contact ☎️ 
 If you have any further questions or suggestions, please do not hesitate to send an email to Longyue Wang (vincentwang0229@gmail.com).
 
 
-## Sponsors
+## Sponsors 🙏🙏🙏
 <div align="center">
   <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="400">
   <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="400">
