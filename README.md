@@ -131,7 +131,7 @@ If you have any further questions or suggestions, please do not hesitate to send
 
 ## Sponsors
 <div align="center">
-  <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="200">
-  <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="200">
+  <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="400">
+  <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="400">
 </div>
 
