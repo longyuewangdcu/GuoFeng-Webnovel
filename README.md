@@ -28,10 +28,15 @@ Copyright is a crucial consideration when it comes to releasing literary texts, 
 - 🚧 By using this dataset, you agree to the terms and conditions outlined above. We take copyright infringement very seriously and will take legal action against any unauthorized use of our data.  
 
 ### Important!
-📝 If you use our datasets, please cite the following papers and claim the original download link (http://www2.statmt.org/wmt23/literary-translation-task.html):
+📝 If you use the GuoFeng Webnovel Corpus, please cite the following papers and claim the original download link:
 
-- Longyue Wang, ‪Chenyang Lyu, Zefeng Du, Dian Yu, Liting Zhou, Siyou Liu, ‪Yan Gu, Yufeng Ma, Weiyu Chen, Yulin Yuan, Bonnie Webber, Philipp Koehn, Yvette Graham, Andy Way, Shuming Shi, Zhaopeng Tu. Findings of the WMT 2023 Shared Task on Discourse-Level Literary Translation. Proceedings of the Eighth Conference on Machine Translation (WMT). 2023. [bib]  
-- Longyue Wang, Zefeng Du, DongHuai Liu, Deng Cai, Dian Yu, Haiyun Jiang, Yan Wang, Shuming Shi, Zhaopeng Tu. GuoFeng: A Discourse-aware Evaluation Benchmark for Language Understanding, Translation and Generation. 2023. [bib]
+- [1] Longyue Wang, Zhaopeng Tu, Yan Gu, Siyou Liu, Dian Yu, Qingsong Ma, Chenyang Lyu, Liting Zhou, Chao-Hong Liu, Yufeng Ma, Weiyu Chen, Yvette Graham, Bonnie Webber, Philipp Koehn, Andy Way, Yulin Yuan, Shuming Shi. Findings of the WMT 2023 shared task on discourse-level literary translation: A fresh orb in the cosmos of LLMs. Proceedings of the Eighth Conference on Machine Translation (WMT). 2023.
+
+- [2] Longyue Wang, Siyou Liu, Minghao Wu, Wenxiang Jiao, Xing Wang, Jiahao Xu, Zhaopeng Tu, Liting Zhou, Yan Gu, Weiyu Chen, Philipp Koehn, Andy Way, Yulin Yuan. Findings of the WMT 2024 Shared Task on Discourse-Level Literary Translation. Proceedings of the Ninth Conference on Machine Translation (WMT). 2024.
+
+- [3] Download Link: www2.statmt.org/wmt23/literary-translation-task.html.
+
+
 
 ## Description (GuoFeng Webnovel Corpus)
 
