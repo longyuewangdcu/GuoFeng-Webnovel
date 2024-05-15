@@ -61,8 +61,8 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 | Test  |2	|12	      |12	917	   |different books with Train |
 | Testing Input | - | - | - | - |
 
-[**Click here to download the corpus (via Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSeopt1UqpJXoRysLtxJW7ZzHeVvBEyHjqFN_pebWG_jlF9Ahw/viewform?usp=sf_link)
-[**Click here to download the corpus (via Tencent Form)**](https://docs.qq.com/form/page/DSWttd3pkR3RZdWtj)
+[**Click here to download the corpus (via Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSeopt1UqpJXoRysLtxJW7ZzHeVvBEyHjqFN_pebWG_jlF9Ahw/viewform?usp=sf_link)  
+[**Click here to download the corpus (via Tencent Form)**](https://docs.qq.com/form/page/DSWttd3pkR3RZdWtj)  
 
 
 ### Data Format
