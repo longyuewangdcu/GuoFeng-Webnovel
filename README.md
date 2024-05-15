@@ -54,7 +54,7 @@ Copyright is a crucial consideration when it comes to releasing literary texts, 
 1. some sentences may have no aligned translations because human translators translate novels in a document way;
 2. we keep all document-level information such as continuous chapters and sentences.
 
-## Download  
+### Download  
 We release 22,567 continuous chapters from 179 web novels, covering 14 genres such as fantasy science and romance. The data statistics are listed in Table 1.
 
 | Table1   | Book | Chapter | Sentence | Notes |
@@ -86,6 +86,47 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 </CHAPTER>
 </BOOK>
 ```
+
+## Data Description (GuoFeng Webnovel Corpus V2)
+### Pretrained Models
+We provide three types of in-domain pretrained models (same as last year) and large language models (new in this year):
+
+| Version | Layer | Hidden Size | Vocab | Continuous Train |
+| ------- | ----- | ----------- | ----- | ---------------- |
+| [Chinese-Llama-2-7B](https://github.com/longyuewangdcu/Chinese-Llama-2) | 32 | 4096 | 32000 | Chinese and English literary texts (115B tokens) |
+| [RoBERTa](https://www.dropbox.com/sh/1qvukp4cmhp36t4/AABKjGLa9rmDs-NQkA0zWHoKa?Submit=Click+here+to+download+the+models) | base | 12 enc | 768 | 21128 |
+| Chinese literary text (84B tokens) | mBARTCC25 | 12 enc + 12 dec | 1024 | 250000 |
+
+## Evaluation 
+
+- 🤖 Automatic Evaluation: To evaluate the performance of the well-trained models, we will report multiple evaluation metrics, including d-BLEU (document-level sacreBLEU), d-COMET (document-level COMET) to measure the overall accuracy and fluency of the translations.
+
+- 👩‍🏫 Human Evaluation: Besides, we provide professional translators to assess the translations based on more subjective criteria, such as the preservation of literary style and the overall coherence and cohesiveness of the translated texts. Based on our experience with this project, we designed a fine-grained error typology and marking MQM criteria for literary MT.
+
+- 👨‍👩‍👧‍👦 A/B Testing: Acknowledging the concern that there is no single, universally preferred translation for literary texts, we ask human readers or LLMs to select their preferred contents in practical application scenarios.
+
+## Committee
+### Organization Team
+[Longyue Wang](http://longyuewang.com/) ([vincentwang0229@gmail.com](mailto:vincentwang0229@gmail.com)) (Tencent AI Lab)  
+[Zhaopeng Tu](http://www.zptu.net/) (Tencent AI Lab)  
+[Wenxiang Jiao](https://wxjiao.github.io/) (Tencent AI Lab)  
+[Xing Wang](http://www.xingwang4nlp.com/) (Tencent AI Lab)  
+Jiahao Xu (Tencent AI Lab)  
+[Yan Gu](https://github.com/drow931) (China Literature Limited)  
+Weiyu Chen (China Literature Limited)  
+
+### Evaluation Team
+[Siyou Liu](https://fah.um.edu.mo/liu-siyou-%E5%88%98%E6%80%9D%E4%BD%91) ([helen.liu103@gmail.com](mailto:helen.liu103@gmail.com)) (University of Macau)  
+[Minghao Wu](https://minghao-wu.github.io/) (Monash University)  
+[Liting Zhou](https://www.dcu.ie/computing/people/liting-zhou) (Dublin City University)  
+
+### Advisory Committee
+[Philipp Koehn](https://www.cs.jhu.edu/~phi) (Johns Hopkins University)  
+[Andy Way](https://www.adaptcentre.ie/experts/andy-way) (Dublin City University)  
+[Yulin Yuan](https://fah.um.edu.mo/yuan-yulin) (University of Macau)  
+
+Contact
+If you have any further questions or suggestions, please do not hesitate to send an email to Longyue Wang (vincentwang0229@gmail.com).
 
 
 ## COMMITTEE
