@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/img/logo.jpg" alt="Logo" width="200">
+  <img src="/img/logo.jpg" alt="Logo" width="400">
 </div>
 
-# GuoFeng Webnovel Corpus: A Discourse-Level and Multilingual Dataset of Web Fiction
+# GuoFeng Webnovel: A Discourse-Level and Multilingual Corpus of Web Fiction
