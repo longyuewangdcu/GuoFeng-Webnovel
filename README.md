@@ -114,14 +114,12 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 **Chinese→German**
 
 
-[%autowidth]
-|===
 |**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**
 |Train | 145 | 599,647 | -- | covering 14 genres
 |Valid | -- | -- | -- | --
 |Test | -- | -- | -- | --
 |Testing Input | -- | -- | -- | --
-|===
+
 
 **Chinese→Russian** (TBA)
 
