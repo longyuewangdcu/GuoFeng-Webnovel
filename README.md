@@ -60,6 +60,25 @@ Copyright is a crucial consideration when it comes to releasing literary texts, 
 2. we keep all document-level information such as continuous chapters and sentences.
 
 ### Download  ⏬
+
+++++
+🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    Click here to download the corpus (via Google Form and Dropbox)
+  </button>
+</a>
+<br>
+🎈 <a href="https://docs.qq.com/form/page/DSUxDa1F3VWFmbnVT" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    Click here to download the corpus (via Tencent Form and Weiyun)
+  </button>
+</a>
+++++
+
+### Data Description (GuoFeng Webnovel Corpus V1)
+
+**Chinese→English**
+
 We release 22,567 continuous chapters from 179 web novels, covering 14 genres such as fantasy science and romance. The data statistics are listed in Table 1.
 
 | Table1   | Book | Chapter | Sentence | Notes |
@@ -71,22 +90,6 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 | Test  |2	|12	      |12	917	   |different books with Train |
 | Testing Input | - | - | - | - |
 
-
-++++   
-
-🎈 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeopt1UqpJXoRysLtxJW7ZzHeVvBEyHjqFN_pebWG_jlF9Ahw/viewform?usp=sf_link" style="text-decoration: none;">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    Click here to download the corpus (via Google Form)
-  </button>
-</a>
-<br>
-🎈 <a href="https://docs.qq.com/form/page/DSWttd3pkR3RZdWtj" style="text-decoration: none;">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    Click here to download the corpus (via Tencent Form)
-  </button>
-</a>  
-
-++++  
 
 
 ### Data Format 💾
@@ -107,6 +110,20 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 ```
 
 ### Data Description (GuoFeng Webnovel Corpus V2)
+
+**Chinese→German**
+
+
+[%autowidth]
+|===
+|**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**
+|Train | 145 | 599,647 | -- | covering 14 genres
+|Valid | -- | -- | -- | --
+|Test | -- | -- | -- | --
+|Testing Input | -- | -- | -- | --
+|===
+
+**Chinese→Russian** (TBA)
 
 
 ### Pretrained Models 
