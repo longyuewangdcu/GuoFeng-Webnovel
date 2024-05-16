@@ -43,7 +43,7 @@ Copyright is a crucial consideration when it comes to releasing literary texts, 
 
 
 
-## Description (GuoFeng Webnovel Corpus)
+## Description of GuoFeng Webnovel Corpus
 
 <div align="center">
   <img src="/img/data-create.jpg" alt="Logo" width="300">
@@ -71,8 +71,20 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 | Test  |2	|12	      |12	917	   |different books with Train |
 | Testing Input | - | - | - | - |
 
-[**Click here to download the corpus (via Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSeopt1UqpJXoRysLtxJW7ZzHeVvBEyHjqFN_pebWG_jlF9Ahw/viewform?usp=sf_link)  
-[**Click here to download the corpus (via Tencent Form)**](https://docs.qq.com/form/page/DSWttd3pkR3RZdWtj)  
+
+++++
+🎈 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeopt1UqpJXoRysLtxJW7ZzHeVvBEyHjqFN_pebWG_jlF9Ahw/viewform?usp=sf_link" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    Click here to download the corpus (via Google Form)
+  </button>
+</a>
+<br>
+🎈 <a href="https://docs.qq.com/form/page/DSWttd3pkR3RZdWtj" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    Click here to download the corpus (via Tencent Form)
+  </button>
+</a>
+++++
 
 
 ### Data Format 💾
@@ -92,17 +104,32 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 </BOOK>
 ```
 
-## Data Description (GuoFeng Webnovel Corpus V2)
+### Data Description (GuoFeng Webnovel Corpus V2)
 
 
-## Pretrained Models 
+### Pretrained Models 
 We provide three types of in-domain pretrained models (same as last year) and large language models (new in this year):
 
 | Version | Layer | Hidden Size | Vocab | Continuous Train |
 | ------- | ----- | ----------- | ----- | ---------------- |
-| [Chinese-Llama-2-7B](https://github.com/longyuewangdcu/Chinese-Llama-2) | 32 | 4096 | 32000 | Chinese and English literary texts (115B tokens) |
-| [RoBERTa](https://www.dropbox.com/sh/1qvukp4cmhp36t4/AABKjGLa9rmDs-NQkA0zWHoKa?Submit=Click+here+to+download+the+models) | base | 12 enc | 768 | 21128 |
+| Chinese-Llama-2-7B | 32 | 4096 | 32000 | Chinese and English literary texts (115B tokens) |
+| RoBERTa | base | 12 enc | 768 | 21128 |
 | Chinese literary text (84B tokens) | mBARTCC25 | 12 enc + 12 dec | 1024 | 250000 |
+
+++++
+🎈 <a href="https://github.com/longyuewangdcu/Chinese-Llama-2" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    Chinese-Llama-2
+  </button>
+</a>
+<br>
+🎈 <a href="https://www.dropbox.com/sh/1qvukp4cmhp36t4/AABKjGLa9rmDs-NQkA0zWHoKa?Submit=Click+here+to+download+the+models" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    RoBERTa & mBART
+  </button>
+</a>
+++++
+
 
 ## Evaluation 🔢
 
