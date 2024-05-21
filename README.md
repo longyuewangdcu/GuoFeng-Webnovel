@@ -46,21 +46,23 @@ Copyright is a crucial consideration when it comes to releasing literary texts, 
 📝 If you use the GuoFeng Webnovel Corpus, please cite the following papers and claim the original download link:
 
 ```bibtex
-@article{lyu2023macaw,
-  title={Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration},
-  author={Lyu, Chenyang and Wu, Minghao and Wang, Longyue and Huang, Xinting and Liu, Bingshuai and Du, Zefeng and Shi, Shuming and Tu, Zhaopeng},
-  journal={arXiv preprint arXiv:2306.09093},
+@inproceedings{wang2023findings,
+  title={Findings of the WMT 2023 Shared Task on Discourse-Level Literary Translation: A Fresh Orb in the Cosmos of LLMs},
+  author={Wang, Longyue and Tu, Zhaopeng and Gu, Yan and Liu, Siyou and Yu, Dian and Ma, Qingsong and Lyu, Chenyang and Zhou, Liting and Liu, Chao-Hong and Ma, Yufeng and others},
+  booktitle={Proceedings of the Eighth Conference on Machine Translation},
+  pages={55--67},
   year={2023}
 }
+
+@inproceedings{wang2023findings,
+  title={Findings of the WMT 2024 Shared Task on Discourse-Level Literary Translation},
+  author={Wang, Longyue and Liu, Siyou and Wu, Minghao and Jiao, Wenxiang and Wang, Xing and Xu, Jiahao and Tu, Zhaopeng and Zhou, Liting and Gu, Yan and Chen, Weiyu and Koehn, Philipp and Way, Andy and Yuan, Yulin},
+  booktitle={Proceedings of the Ninth Conference on Machine Translation},
+  year={2024}
+}
+
+Download Link: www2.statmt.org/wmt23/literary-translation-task.html.
 ```
-
-- [1] Longyue Wang, Zhaopeng Tu, Yan Gu, Siyou Liu, Dian Yu, Qingsong Ma, Chenyang Lyu, Liting Zhou, Chao-Hong Liu, Yufeng Ma, Weiyu Chen, Yvette Graham, Bonnie Webber, Philipp Koehn, Andy Way, Yulin Yuan, Shuming Shi. Findings of the WMT 2023 shared task on discourse-level literary translation: A fresh orb in the cosmos of LLMs. Proceedings of the Eighth Conference on Machine Translation (WMT). 2023.
-
-- [2] Longyue Wang, Siyou Liu, Minghao Wu, Wenxiang Jiao, Xing Wang, Jiahao Xu, Zhaopeng Tu, Liting Zhou, Yan Gu, Weiyu Chen, Philipp Koehn, Andy Way, Yulin Yuan. Findings of the WMT 2024 Shared Task on Discourse-Level Literary Translation. Proceedings of the Ninth Conference on Machine Translation (WMT). 2024.
-
-- [3] Download Link: www2.statmt.org/wmt23/literary-translation-task.html.
-
-
 
 ## Description of GuoFeng Webnovel Corpus
 
