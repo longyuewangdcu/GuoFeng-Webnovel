@@ -111,7 +111,7 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 | Testing Input | - | - | - | TBA |
 
 ### Data Format 💾
-Taking "train.en" for exaple, the data format is shown as follows: **&lt;BOOK id=""&gt; &lt;/BOOK&gt;** indicates a book boundary, which contains a number of continous chapters with the tag ** \<CHAPTER id=""\> \</CHAPTER\>**. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
+Taking "train.en" for exaple, the data format is shown as follows: **&lt;BOOK id=""&gt; &lt;/BOOK&gt;** indicates a book boundary, which contains a number of continous chapters with the tag **\<CHAPTER id=""\> \</CHAPTER\>**. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
 
 ```HTML
 <BOOK id="100-jdxx">
@@ -131,18 +131,26 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 
 **Chinese→German**
 
-
-|**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**
-|Train | 145 | 599,647 | -- | covering 14 genres
-|Valid | -- | -- | -- | --
-|Test | -- | -- | -- | --
-|Testing Input | -- | -- | -- | --
+|**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**|
+|Train | 145 | 599,647 | -- | covering 14 genres|
+|Valid | -- | -- | -- | --|
+|Test | -- | -- | -- | --|
+|Testing Input | -- | -- | -- | --|
 
 
 **Chinese→Russian** (TBA)
 
+|**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**|
+|Train | 145 | 599,647 | -- | covering 14 genres|
+|Valid | -- | -- | -- | --|
+|Test | -- | -- | -- | --|
+|Testing Input | -- | -- | -- | --|
 
-### Pretrained Models 
+### Data Format 💾
+xxxxx 
+
+
+## Pretrained Models 
 We provide three types of in-domain pretrained models (same as last year) and large language models (new in this year):
 
 | Version | Layer | Hidden Size | Vocab | Continuous Train |
