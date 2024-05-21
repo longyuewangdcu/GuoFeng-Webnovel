@@ -117,7 +117,7 @@ Text content
 <font color=#800000>酒紅色</font>
 
 ### Data Format 💾
-Taking "train.en" for exaple, the data format is shown as follows: <span style="color:blue"> &lt;BOOK id=""&gt; &lt;/BOOK&gt; </span> indicates a book boundary, which contains a number of continous chapters with the tag <font color=blue> \<CHAPTER id=""\> \</CHAPTER\></font>. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
+Taking "train.en" for exaple, the data format is shown as follows: **&lt;BOOK id=""&gt; &lt;/BOOK&gt;** indicates a book boundary, which contains a number of continous chapters with the tag ** \<CHAPTER id=""\> \</CHAPTER\>**. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
 
 ```HTML
 <BOOK id="100-jdxx">
