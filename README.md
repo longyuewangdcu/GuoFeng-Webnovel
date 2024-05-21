@@ -157,10 +157,10 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
     │   ├── 15-jlws_0001-DE.txt    # Chapter ID - German
     │   ├── ......                 # more chapters
     ├── 2-ccg                      # Book ID - English Title
-    │   ├── aZPT                   # Chapter ID - Chinese
-    │   ├── aZPT_output            # Chapter ID - German
+    │   ├── 62-xzltq_0002-CH.txt   # Chapter ID - Chinese
+    │   ├── 62-xzltq_0002-CH.txt   # Chapter ID - German
     │   ├── ......                 # more chapters
-	├── ......                     # more books
+    ├── ......                     # more books
 ```
 
 ## Pretrained Models 
