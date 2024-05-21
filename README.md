@@ -2,7 +2,7 @@
   <img src="/img/logo.jpg" alt="Logo" width="600">
 </div>
 
-# 🀄 GuoFeng Webnovel 🀄: A Discourse-Level and Multilingual Corpus of Web Fiction
+# 🀄 GuoFeng Webnovel: A Discourse-Level and Multilingual Corpus of Web Fiction
 
 <div align="center">
 <img src="https://img.shields.io/badge/License-CC%20BY%204.0-green.svg" alt="License">
@@ -10,14 +10,14 @@
 <img src="https://img.shields.io/github/issues/longyuewangdcu/GuoFeng-Webnovel?color=red" alt="Issues">
 
 
-<div align="left">  
-
 <!-- **Affiliations:** -->
 
 _¹ Tencent AI Lab, ² China Literature Ltd._
 
 _<sup>*</sup>Longyue Wang is the corresponding author: [vinnlywang@tencent.com](mailto:{vinnlywang@tencent.com)_
 </div>
+
+<div align="left">  
 
 GuoFeng Webnovel is a discourse-level and multilingual corpus of web fiction in three directions: **Chinese→English**, **Chinese→German**, **Chinese→Russian**.  
 
