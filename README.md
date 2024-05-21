@@ -12,7 +12,7 @@
 
 <!-- **Affiliations:** -->
 
-<br><br><br>
+<br><br>
 
 **¹ Tencent AI Lab, ² China Literature Ltd.**
 
@@ -21,15 +21,16 @@ _<sup>*</sup>**Longyue Wang**¹ is the corresponding author: [vinnlywang@tencent
 
 <div align="left">  
 
-GuoFeng Webnovel is a discourse-level and multilingual corpus of web fiction in three directions: **Chinese→English**, **Chinese→German**, **Chinese→Russian**.  
-
-Specifically： 
-- **GuoFeng Webnovel Corpus v1:** a in-domain, discourse-level and human-translated training dataset with sentence-level alignment for Chinese→English.
-- **GuoFeng Webnovel Corpus v2:** two in-domain and discourse-level training dataset for Chinese→German and Chinese→Russian.
+GuoFeng Webnovel is a publicly copyrighted, high-quality, discourse-level and multilingual corpus of web fiction. Specifically, its distinguishing feature lies in:
+- **Rich Linguistic and Cultural Phenomena**: literary texts contain more complex linguistic and cultural knowledge than non-literary ones.
+- **Long-Range Context**: literature such as novels have much longer contexts than texts in other domains.
+- **Artificial General Intelligence**: we anticipate that this dataset will not only advance existing research in the fields of machine translation but also inspire novel studies with Large Language Models.
 
 ## News 🤩🤩🤩
 
-- \[15/05/2024\] 🎉🎉🎉 GuoFeng is online now 🎉🎉🎉  
+- \[20/05/2024\] **GuoFeng Webnovel Corpus V2** is released: two discourse-level datasets for **Chinese→German** and **Chinese→Russian**.
+- \[15/05/2024\] 🎉🎉🎉 GuoFeng Github is online now 🎉🎉🎉
+- \[06/05/2023\] **GuoFeng Webnovel Corpus V1** is released: a discourse-level dataset with sentence-level alignment for **Chinese→English**. 
 
 
 ## Copyright and Licence
