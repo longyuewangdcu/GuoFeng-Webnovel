@@ -38,11 +38,11 @@ GuoFeng Webnovel is a publicly copyrighted, high-quality, discourse-level and mu
 Copyright is a crucial consideration when it comes to releasing literary texts, and we (Tencent AI Lab and China Literature Ltd.) are the rightful copyright owners of the web fictions included in this dataset. We are pleased to make this data available to the research community, subject to certain terms and conditions.
 
 - 🔔 GuoFeng Webnovel Corpus is copyrighted by Tencent AI Lab and China Literature Limited. 
-- 🚦 After completing the registration process with your institute information, WMT participants or researchers are granted permission to use the dataset solely for non-commercial research purposes and must comply with the principles of fair use (CC-BY 4.0). 
+- 🚦 After completing the registration process with your institute information, WMT participants or researchers are granted permission to use the dataset solely for non-commercial research purposes and must comply with the principles of fair use ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0)). 
 - 🔒 Modifying or redistributing the dataset is strictly prohibited. If you plan to make any changes to the dataset, such as adding more annotations, with the intention of publishing it publicly, please contact us first to obtain written consent.
 - 🚧 By using this dataset, you agree to the terms and conditions outlined above. We take copyright infringement very seriously and will take legal action against any unauthorized use of our data.  
 
-### Important❗❗❗
+### Citation ❗❗❗
 📝 If you use the GuoFeng Webnovel Corpus, please cite the following papers and claim the original download link:
 
 ```bibtex
@@ -54,30 +54,30 @@ Copyright is a crucial consideration when it comes to releasing literary texts, 
   year={2023}
 }
 
-@inproceedings{wang2023findings,
+@inproceedings{wang2024findings,
   title={Findings of the WMT 2024 Shared Task on Discourse-Level Literary Translation},
   author={Wang, Longyue and Liu, Siyou and Wu, Minghao and Jiao, Wenxiang and Wang, Xing and Xu, Jiahao and Tu, Zhaopeng and Zhou, Liting and Gu, Yan and Chen, Weiyu and Koehn, Philipp and Way, Andy and Yuan, Yulin},
   booktitle={Proceedings of the Ninth Conference on Machine Translation},
   year={2024}
 }
 
-Download Link: www2.statmt.org/wmt23/literary-translation-task.html.
+Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
 ```
 
-## Description of GuoFeng Webnovel Corpus
+## Data Processing
 
 <div align="center">
   <img src="/img/data-create.jpg" alt="Logo" width="300">
 </div>
 
-💌 The web novels are originally written in Chinese by novel writers and then translated into English by professional translators. As shown in Figure 2, we processed the data using automatic and manual methods:
-1. align Chinese books with their English versions by title information;
+💌 The web novels are originally written in Chinese by novel writers and then translated into other languages by professional translators. Taking Chinese-English for instance, we processed the data using automatic and manual methods:
+1. Align Chinese books with their English versions by title information;
 2. In each book, align Chinese-English chapters according to Chapter ID numbers;
 3. Build an MT-based sentence aligner to generate parallel sentences;
-4. ask human annotators to check and revise the alignment errors.
+4. Ask human annotators to check and revise the alignment errors.
 
 💡 Note that:
-1. some sentences may have no aligned translations because human translators translate novels in a document way;
+1. Some sentences may have no aligned translations because human translators translate novels in a document way;
 2. we keep all document-level information such as continuous chapters and sentences.
 
 ### Download  ⏬
