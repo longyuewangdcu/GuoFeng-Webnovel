@@ -114,6 +114,8 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 Text content
 </span>
 
+<font color=#800000>酒紅色</font>
+
 ### Data Format 💾
 Taking "train.en" for exaple, the data format is shown as follows: <span style="color:blue"> &lt;BOOK id=""&gt; &lt;/BOOK&gt; </span> indicates a book boundary, which contains a number of continous chapters with the tag <font color=blue> \<CHAPTER id=""\> \</CHAPTER\></font>. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
 
