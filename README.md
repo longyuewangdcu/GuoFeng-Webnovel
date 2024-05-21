@@ -66,19 +66,19 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
 
 ## Data Processing
 
-<div align="center">
-  <img src="/img/data-create.jpg" alt="Logo" width="300">
-</div>
-
 💌 The web novels are originally written in Chinese by novel writers and then translated into other languages by professional translators. Taking Chinese-English for instance, we processed the data using automatic and manual methods:
-1. Align Chinese books with their English versions by title information;
-2. In each book, align Chinese-English chapters according to Chapter ID numbers;
-3. Build an MT-based sentence aligner to generate parallel sentences;
-4. Ask human annotators to check and revise the alignment errors.
+1. we match Chinese books with its English counterparts based on bilingual titles; 
+2. within each book, Chinese-English chapters are aligned using Chapter ID numbers; 
+3. within each chapter, we build a MT-based sentence aligner to align sentences in parallel, preserving the sentence order in the chapter; 
+4. human annotators are engaged to review and correct any discrepancies in sentence-level alignment.
 
 💡 Note that:
 1. Some sentences may have no aligned translations because human translators translate novels in a document way;
-2. we keep all document-level information such as continuous chapters and sentences.
+2. For Chinese-German and Chinese-Russian, we currently skip 3~4 steps and only keep chapter-level parallel data. The current version may contain some translation errors, e.g. mistranslation.
+
+<div align="center">
+  <img src="/img/data-create.jpg" alt="Logo" width="300">
+</div>
 
 ### Download  ⏬
 
