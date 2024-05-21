@@ -81,7 +81,7 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
 </div>
 
 
-### Download ⏬
+### Data Download ⏬
 
 🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
@@ -95,9 +95,9 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
   </button>🎈
 </a>
 
-### Data Description (GuoFeng Webnovel Corpus V1)
+## Data Description (GuoFeng Webnovel Corpus V1)
 
-**Chinese→English**
+### **Chinese→English**
 
 We release 22,567 continuous chapters from 179 web novels, covering 14 genres such as fantasy science and romance. The data statistics are listed in Table 1.
 
@@ -108,12 +108,12 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 | Test  |1	|26	      |22	697	   |same books with Train |
 | Valid |2	|10	      |10	853	   |different books with Train |
 | Test  |2	|12	      |12	917	   |different books with Train |
-| Testing Input | - | - | - | - |
+| Testing Input | - | - | - | TBA |
 
 
 
 ### Data Format 💾
-Taking "train.en" for exaple, the data format is shown as follows: <font color=red> &lt;BOOK id=""&gt; &lt;/BOOK&gt; </font> indicates a book boundary, which contains a number of continous chapters with the tag <font color=blue> \<CHAPTER id=""\> \</CHAPTER\></font>. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
+Taking "train.en" for exaple, the data format is shown as follows: <span style="color:blue"> &lt;BOOK id=""&gt; &lt;/BOOK&gt; </span> indicates a book boundary, which contains a number of continous chapters with the tag <font color=blue> \<CHAPTER id=""\> \</CHAPTER\></font>. The contents are splited into sentences and manually aligned to Chinese sentences in "train.zh".
 
 ```HTML
 <BOOK id="100-jdxx">
