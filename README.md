@@ -82,15 +82,11 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
 
 ### Download  ⏬
 
-<a href="https://www.example.com" class="button">按钮文本</a>
-
-++++
-🎈 <a href="https://github.com/longyuewangdcu/GuoFeng-Webnovel" style="text-decoration: none;">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    GuoFeng-Webnovel (Download)
-  </button>
-</a>
-++++
+[![Button Icon]][Link]
+<!----------------------------------------------------------------------------->
+[Link]: # 'Link with example title.'
+<!---------------------------------[ Buttons ]--------------------------------->
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 
 🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
