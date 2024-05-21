@@ -127,11 +127,12 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 </BOOK>
 ```
 
-### Data Description (GuoFeng Webnovel Corpus V2)
+## Data Description (GuoFeng Webnovel Corpus V2)
 
 **Chinese→German**
 
 |**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**|
+| -- | ---- | ------- | -------- | ----- |
 |Train | 145 | 599,647 | -- | covering 14 genres|
 |Valid | -- | -- | -- | --|
 |Test | -- | -- | -- | --|
@@ -141,6 +142,7 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 **Chinese→Russian** (TBA)
 
 |**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**|
+| -- | ---- | ------- | -------- | ----- |
 |Train | 145 | 599,647 | -- | covering 14 genres|
 |Valid | -- | -- | -- | --|
 |Test | -- | -- | -- | --|
