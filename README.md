@@ -82,6 +82,7 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
 
 ### Download  ⏬
 
+<a href="https://www.example.com" class="button">按钮文本</a>
 
 ++++
 🎈 <a href="https://github.com/longyuewangdcu/GuoFeng-Webnovel" style="text-decoration: none;">
