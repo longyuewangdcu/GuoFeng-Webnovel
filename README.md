@@ -83,6 +83,14 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
 ### Download  ⏬
 
 
+++++
+🎈 <a href="https://github.com/longyuewangdcu/GuoFeng-Webnovel" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    GuoFeng-Webnovel (Download)
+  </button>
+</a>
+++++
+
 🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
     Click here to download the corpus (via Google Form and Dropbox)
