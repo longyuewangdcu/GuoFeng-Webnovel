@@ -149,8 +149,15 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 |Testing Input | -- | -- | -- | --|
 
 ### Data Format 💾
-xxxxx 
 
+```HTML
+ .
+    ├── 1_testset_mzprt            # Our benchmark testset
+    │   ├── processed              # tokenized and BPEed testset
+    │   │   ├── context-agnostic   # original/oracle testset for sent-level
+    │   │   ├── context-aware      # original/oracle testset for doc-level
+    │   │   ├── labeled-target     # target sequences with ZP-label 
+```
 
 ## Pretrained Models 
 We provide three types of in-domain pretrained models (same as last year) and large language models (new in this year):
