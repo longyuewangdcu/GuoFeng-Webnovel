@@ -12,7 +12,7 @@
 
 <!-- **Affiliations:** -->
 
-<br><br>
+<br>
 
 **¹ Tencent AI Lab, ² China Literature Ltd.**
 
@@ -28,21 +28,31 @@ GuoFeng Webnovel is a publicly copyrighted, high-quality, discourse-level and mu
 
 ## News 🤩🤩🤩
 
-- \[20/05/2024\] **GuoFeng Webnovel Corpus V2** is released: two discourse-level datasets for **Chinese→German** and **Chinese→Russian**.
+- \[20/05/2024\] 🛰️🛰️🛰️ **GuoFeng Webnovel Corpus V2** is released: two discourse-level datasets for **Chinese→German** and **Chinese→Russian**.
+- \[15/05/2023\] WMT23 Shared Task: Discourse-Level Literary Translation
 - \[15/05/2024\] 🎉🎉🎉 GuoFeng Github is online now 🎉🎉🎉
-- \[06/05/2023\] **GuoFeng Webnovel Corpus V1** is released: a discourse-level dataset with sentence-level alignment for **Chinese→English**. 
-
+- \[06/05/2023\] 🚀🚀🚀 **GuoFeng Webnovel Corpus V1** is released: a discourse-level dataset with sentence-level alignment for **Chinese→English**. 
+- \[14/04/2023\] WMT23 Shared Task: Discourse-Level Literary Translation
 
 ## Copyright and Licence
 Copyright is a crucial consideration when it comes to releasing literary texts, and we (Tencent AI Lab and China Literature Ltd.) are the rightful copyright owners of the web fictions included in this dataset. We are pleased to make this data available to the research community, subject to certain terms and conditions.
 
 - 🔔 GuoFeng Webnovel Corpus is copyrighted by Tencent AI Lab and China Literature Limited. 
 - 🚦 After completing the registration process with your institute information, WMT participants or researchers are granted permission to use the dataset solely for non-commercial research purposes and must comply with the principles of fair use (CC-BY 4.0). 
-- 🔒 Modifying or redistributing the dataset is strictly prohibited. If you plan to make any changes to the dataset, such as adding more annotations, with the intention of publishing it publicly, please contact us first to obtain written consent.    
+- 🔒 Modifying or redistributing the dataset is strictly prohibited. If you plan to make any changes to the dataset, such as adding more annotations, with the intention of publishing it publicly, please contact us first to obtain written consent.
 - 🚧 By using this dataset, you agree to the terms and conditions outlined above. We take copyright infringement very seriously and will take legal action against any unauthorized use of our data.  
 
 ### Important❗❗❗
 📝 If you use the GuoFeng Webnovel Corpus, please cite the following papers and claim the original download link:
+
+```bibtex
+@article{lyu2023macaw,
+  title={Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration},
+  author={Lyu, Chenyang and Wu, Minghao and Wang, Longyue and Huang, Xinting and Liu, Bingshuai and Du, Zefeng and Shi, Shuming and Tu, Zhaopeng},
+  journal={arXiv preprint arXiv:2306.09093},
+  year={2023}
+}
+```
 
 - [1] Longyue Wang, Zhaopeng Tu, Yan Gu, Siyou Liu, Dian Yu, Qingsong Ma, Chenyang Lyu, Liting Zhou, Chao-Hong Liu, Yufeng Ma, Weiyu Chen, Yvette Graham, Bonnie Webber, Philipp Koehn, Andy Way, Yulin Yuan, Shuming Shi. Findings of the WMT 2023 shared task on discourse-level literary translation: A fresh orb in the cosmos of LLMs. Proceedings of the Eighth Conference on Machine Translation (WMT). 2023.
 
