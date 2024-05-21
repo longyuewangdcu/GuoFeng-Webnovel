@@ -80,26 +80,20 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
   <img src="/img/data-create.jpg" alt="Logo" width="300">
 </div>
 
-### Download  ⏬
 
-[![Button Icon]][Link]
-<!----------------------------------------------------------------------------->
-[Link]: https://github.com/MarkedDown/Buttons/blob/main/Types/Shield.md 'Link with example title.'
-<!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+### Download ⏬
 
 🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    Click here to download the corpus (via Google Form and Dropbox)
-  </button>
+    Download GuoFeng Webnovel Corpus (via Google Form and Dropbox)
+  </button>🎈
 </a>
 <br>
 🎈 <a href="https://docs.qq.com/form/page/DSUxDa1F3VWFmbnVT" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    Click here to download the corpus (via Tencent Form and Weiyun)
-  </button>
+    Download GuoFeng Webnovel Corpus (via Tencent Form and Weiyun)
+  </button>🎈
 </a>
-
 
 ### Data Description (GuoFeng Webnovel Corpus V1)
 
