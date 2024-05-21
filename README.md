@@ -151,12 +151,16 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 ### Data Format 💾
 
 ```HTML
- .
-    ├── 1_testset_mzprt            # Our benchmark testset
-    │   ├── processed              # tokenized and BPEed testset
-    │   │   ├── context-agnostic   # original/oracle testset for sent-level
-    │   │   ├── context-aware      # original/oracle testset for doc-level
-    │   │   ├── labeled-target     # target sequences with ZP-label 
+.
+    ├── 1-ac                       # Book ID - English Title
+    │   ├── 15-jlws_0001-CH.txt    # Chapter ID - Chinese
+    │   ├── 15-jlws_0001-DE.txt    # Chapter ID - German
+    │   ├── ......                 # more chapters
+    ├── 2-ccg                      # Book ID - English Title
+    │   ├── aZPT                   # Chapter ID - Chinese
+    │   ├── aZPT_output            # Chapter ID - German
+    │   ├── ......                 # more chapters
+	├── ......                     # more books
 ```
 
 ## Pretrained Models 
