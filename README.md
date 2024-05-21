@@ -11,10 +11,10 @@
 
 
 <!-- **Affiliations:** -->
-</br>
-**_¹ Tencent AI Lab**, ² **China Literature Ltd._**
+<br/>
+**¹ Tencent AI Lab**, ² **China Literature Ltd.**
 
-_<sup>*</sup>Longyue Wang¹ is the corresponding author: [vinnlywang@tencent.com](mailto:{vinnlywang@tencent.com)_
+_<sup>*</sup>**Longyue Wang**¹ is the corresponding author: [vinnlywang@tencent.com](mailto:{vinnlywang@tencent.com)_
 </div>
 
 <div align="left">  
