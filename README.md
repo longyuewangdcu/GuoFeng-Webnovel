@@ -243,3 +243,7 @@ If you have any further questions or suggestions, please do not hesitate to send
   <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="250">
   <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="250">
 </div>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=longyuewangdcu/GuoFeng-Webnovel&type=Date)
