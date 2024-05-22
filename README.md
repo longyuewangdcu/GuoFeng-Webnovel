@@ -131,19 +131,19 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 
 **Chinese→German**
 
-|**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**|
+|**Subset** | **# Book**| **# Chapter** | **# Word** | **Notes**|
 | -- | ---- | ------- | -------- | ----- |
-|Train | 145 | 599,647 | -- | covering 14 genres|
+|Train | 118 | 19,101 | DE: 25,562,039 | covering 14 genres|
 |Valid | -- | -- | -- | --|
 |Test | -- | -- | -- | --|
 |Testing Input | -- | -- | -- | --|
 
 
-**Chinese→Russian** (TBA)
+**Chinese→Russian**
 
-|**Subset** | **# Book**| **# Chapter** | **# Sentence** | **Notes**|
+|**Subset** | **# Book**| **# Chapter** | **# Word** | **Notes**|
 | -- | ---- | ------- | -------- | ----- |
-|Train | 145 | 599,647 | -- | covering 14 genres|
+|Train | 122 | 19,971 | RU: 23,521,169 | covering 14 genres|
 |Valid | -- | -- | -- | --|
 |Test | -- | -- | -- | --|
 |Testing Input | -- | -- | -- | --|
@@ -158,7 +158,7 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
     │   ├── ......                 # more chapters
     ├── 2-ccg                      # Book ID - English Title
     │   ├── 62-xzltq_0002-CH.txt   # Chapter ID - Chinese
-    │   ├── 62-xzltq_0002-CH.txt   # Chapter ID - German
+    │   ├── 62-xzltq_0002-DE.txt   # Chapter ID - German
     │   ├── ......                 # more chapters
     ├── ......                     # more books
 ```
