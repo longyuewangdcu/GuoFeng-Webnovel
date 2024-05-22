@@ -99,7 +99,7 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
 
 ### **Chinese→English**
 
-We release 22,567 continuous chapters from 179 web novels, covering 14 genres such as fantasy science and romance. The data statistics are listed in Table 1.
+We release 22,567 continuous chapters from 179 web novels, covering 14 genres such as fantasy science and romance. **The data are document-level with cross-sentence alignment information.** The data statistics are listed as follows. 
 
 | Table1   | Book | Chapter | Sentence | Notes |
 | -- | ---- | ------- | -------- | ----- |
@@ -128,6 +128,8 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 ```
 
 ## Data Description (GuoFeng Webnovel Corpus V2)
+
+We release ~19K continuous chapters from ~120 web novels, covering 14 genres such as fantasy science and romance. **The data are document-level without alignment information**. The data statistics are listed as follows.
 
 **Chinese→German**
 
@@ -161,6 +163,18 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
     │   ├── 62-xzltq_0002-DE.txt   # Chapter ID - German
     │   ├── ......                 # more chapters
     ├── ......                     # more books
+	
+15-jlws_0001-CH.txt
+
+第一章 李戴
+李戴走出考场，穿梭在密密麻麻的人群当中。看着周围那一张张春风得意的脸，耳边响起路人兴高采烈的讨论声，李戴心中却愈加的沮丧。
+“哎，考砸了！想进入到面试是肯定没戏了。”李戴揉了揉太阳穴，头脑中那种沉甸甸的感觉却愈发的浓郁。
+
+15-jlws_0001-DE.txt
+
+Kapitel 1: Li Dai
+Li Dai verließ das Prüfungszentrum und bewegte sich durch die dichte Menschenmenge. Er sah die triumphierenden Gesichter um ihn herum und hörte die enthusiastischen Diskussionen der Passanten, doch in seinem Herzen wurde er immer deprimierter.
+"Oh, ich habe die Prüfung vergeigt! Eine Chance auf ein Vorstellungsgespräch gibt es sicherlich nicht mehr." Li Dai massierte seine Schläfen, das schwere Gefühl in seinem Kopf wurde immer intensiver.
 ```
 
 ## Pretrained Models 
