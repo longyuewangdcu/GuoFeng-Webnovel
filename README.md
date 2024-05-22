@@ -182,7 +182,18 @@ Li Dai verließ das Prüfungszentrum und bewegte sich durch die dichte Menschenm
 "Oh, ich habe die Prüfung vergeigt! Eine Chance auf ein Vorstellungsgespräch gibt es sicherlich nicht mehr." Li Dai massierte seine Schläfen, das schwere Gefühl in seinem Kopf wurde immer intensiver.
 ```
 
-## Data Download ⏬
+### Pretrained Models 🔢
+We provide three types of in-domain pretrained models (same as last year) and large language models (new in this year):
+
+| Version | Layer | Hidden Size | Vocab | Continuous Train |
+| ------- | ----- | ----------- | ----- | ---------------- |
+| Chinese-Llama-2-7B | 32 | 4096 | 32000 | Chinese and English literary texts (115B tokens) |
+| RoBERTa | base | 12 enc | 768 | 21128 |
+| Chinese literary text (84B tokens) | mBARTCC25 | 12 enc + 12 dec | 1024 | 250000 |
+
+## Download ⏬
+
+### Data Download 👨‍👩
 
 🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
@@ -196,16 +207,7 @@ Li Dai verließ das Prüfungszentrum und bewegte sich durch die dichte Menschenm
   </button>🎈
 </a>
 
-## Pretrained Models 
-We provide three types of in-domain pretrained models (same as last year) and large language models (new in this year):
-
-| Version | Layer | Hidden Size | Vocab | Continuous Train |
-| ------- | ----- | ----------- | ----- | ---------------- |
-| Chinese-Llama-2-7B | 32 | 4096 | 32000 | Chinese and English literary texts (115B tokens) |
-| RoBERTa | base | 12 enc | 768 | 21128 |
-| Chinese literary text (84B tokens) | mBARTCC25 | 12 enc + 12 dec | 1024 | 250000 |
-
-### Models Download ⏬
+### Models Download 🤖
 
 🎈 <a href="https://github.com/longyuewangdcu/Chinese-Llama-2" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
@@ -219,14 +221,6 @@ We provide three types of in-domain pretrained models (same as last year) and la
   </button>
 </a> 🎈
 
-
-## Evaluation 🔢
-
-- 🤖 **Automatic Evaluation**: To evaluate the performance of the well-trained models, we will report multiple evaluation metrics, including d-BLEU (document-level sacreBLEU), d-COMET (document-level COMET) to measure the overall accuracy and fluency of the translations.
-
-- 👩‍🏫 **Human Evaluation**: Besides, we provide professional translators to assess the translations based on more subjective criteria, such as the preservation of literary style and the overall coherence and cohesiveness of the translated texts. Based on our experience with this project, we designed a fine-grained error typology and marking MQM criteria for literary MT.
-
-- 👨‍👩‍👧‍👦 **A/B Testing**: Acknowledging the concern that there is no single, universally preferred translation for literary texts, we ask human readers or LLMs to select their preferred contents in practical application scenarios.
 
 ## Committee 
 ### Data Team 🧑🏻‍💼
@@ -249,4 +243,3 @@ If you have any further questions or suggestions, please do not hesitate to send
   <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="250">
   <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="250">
 </div>
-
