@@ -80,21 +80,6 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
   <img src="/img/data-create.jpg" alt="Logo" width="300">
 </div>
 
-
-### Data Download ⏬
-
-🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    Download GuoFeng Webnovel Corpus (via Google Form and Dropbox)
-  </button>🎈
-</a>
-<br>
-🎈 <a href="https://docs.qq.com/form/page/DSUxDa1F3VWFmbnVT" style="text-decoration: none;">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    Download GuoFeng Webnovel Corpus (via Tencent Form and Weiyun)
-  </button>🎈
-</a>
-
 ## Data Description (GuoFeng Webnovel Corpus V1)
 
 ### **Chinese→English**
@@ -177,6 +162,20 @@ Li Dai verließ das Prüfungszentrum und bewegte sich durch die dichte Menschenm
 "Oh, ich habe die Prüfung vergeigt! Eine Chance auf ein Vorstellungsgespräch gibt es sicherlich nicht mehr." Li Dai massierte seine Schläfen, das schwere Gefühl in seinem Kopf wurde immer intensiver.
 ```
 
+### Data Download ⏬
+
+🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    Download GuoFeng Webnovel Corpus (via Google Form and Dropbox)
+  </button>🎈
+</a>
+<br>
+🎈 <a href="https://docs.qq.com/form/page/DSUxDa1F3VWFmbnVT" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
+    Download GuoFeng Webnovel Corpus (via Tencent Form and Weiyun)
+  </button>🎈
+</a>
+
 ## Pretrained Models 
 We provide three types of in-domain pretrained models (same as last year) and large language models (new in this year):
 
@@ -186,21 +185,19 @@ We provide three types of in-domain pretrained models (same as last year) and la
 | RoBERTa | base | 12 enc | 768 | 21128 |
 | Chinese literary text (84B tokens) | mBARTCC25 | 12 enc + 12 dec | 1024 | 250000 |
 
-++++   
+### Models Download ⏬
 
 🎈 <a href="https://github.com/longyuewangdcu/Chinese-Llama-2" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    Chinese-Llama-2
+    Download Chinese-Llama-2
   </button>
-</a>
+</a>🎈
 <br>
 🎈 <a href="https://www.dropbox.com/sh/1qvukp4cmhp36t4/AABKjGLa9rmDs-NQkA0zWHoKa?Submit=Click+here+to+download+the+models" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
-    RoBERTa & mBART
+    Download RoBERTa & mBART
   </button>
-</a>
-
-++++   
+</a> 🎈
 
 
 ## Evaluation 🔢
@@ -212,32 +209,22 @@ We provide three types of in-domain pretrained models (same as last year) and la
 - 👨‍👩‍👧‍👦 A/B Testing: Acknowledging the concern that there is no single, universally preferred translation for literary texts, we ask human readers or LLMs to select their preferred contents in practical application scenarios.
 
 ## Committee 
-### Organization Team 🧑🏻‍💼
+### Data Team 🧑🏻‍💼
 [Longyue Wang](http://longyuewang.com/) ([vincentwang0229@gmail.com](mailto:vincentwang0229@gmail.com)) (Tencent AI Lab)  
 [Zhaopeng Tu](http://www.zptu.net/) (Tencent AI Lab)  
-[Wenxiang Jiao](https://wxjiao.github.io/) (Tencent AI Lab)  
-[Xing Wang](http://www.xingwang4nlp.com/) (Tencent AI Lab)  
-Jiahao Xu (Tencent AI Lab)  
 [Yan Gu](https://github.com/drow931) (China Literature Limited)  
 Weiyu Chen (China Literature Limited)  
 
-### Evaluation Team 🧑‍🏫 
-[Siyou Liu](https://fah.um.edu.mo/liu-siyou-%E5%88%98%E6%80%9D%E4%BD%91) ([helen.liu103@gmail.com](mailto:helen.liu103@gmail.com)) (University of Macau)  
-[Minghao Wu](https://minghao-wu.github.io/) (Monash University)  
-[Liting Zhou](https://www.dcu.ie/computing/people/liting-zhou) (Dublin City University)  
-
-### Advisory Committee 🫅 
-[Philipp Koehn](https://www.cs.jhu.edu/~phi) (Johns Hopkins University)  
-[Andy Way](https://www.adaptcentre.ie/experts/andy-way) (Dublin City University)  
-[Yulin Yuan](https://fah.um.edu.mo/yuan-yulin) (University of Macau)  
+### Technical Team 🧑‍🏫 
+[Jiahao Xu](https://lemaoliu.github.io/homepage/lat.html) (Tencent AI Lab) 
 
 ### Contact ☎️ 
-If you have any further questions or suggestions, please do not hesitate to send an email to Longyue Wang (vincentwang0229@gmail.com).
+If you have any further questions or suggestions, please do not hesitate to send an email to **Longyue Wang (vincentwang0229@gmail.com or vinnylywang@tencent.com)**.
 
 
 ## Sponsors 🙏🙏🙏
 <div align="center">
-  <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="400">
-  <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="400">
+  <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="300">
+  <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="300">
 </div>
 
