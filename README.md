@@ -157,6 +157,8 @@ We release ~19K continuous chapters from ~120 web novels, covering 14 genres suc
 
 ### Data Format 💾
 
+**Data Format**: Taking Chinese-German for exaple, the data format is shown as follows: (1) **1-ac, 2-ccg, ......** indicates book-level folders. (2) In "1-ac" folder, **15-jlws_0001-CH.txt, 15-jlws_0001-DE.txt, ....** are continous chapters in Chinese and German languages. (3) In each file, there is **no tags and sentence-level alignment information**. 
+
 ```HTML
 .
     ├── 1-ac                       # Book ID - English Title
@@ -195,6 +197,8 @@ We provide three types of in-domain pretrained models (same as last year) and la
 
 ### Data Download 👨‍👩
 
+The GuoFeng Webnovel Corpus V1 and V2 can be download via **Github**: (1) **Go to "Download" Section** and click the buttion; (2) **Fill out the registration form** and you will get the link in the Final Page.
+
 🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
     Download GuoFeng Webnovel Corpus (via Google Form and Dropbox)
@@ -229,10 +233,11 @@ We provide three types of in-domain pretrained models (same as last year) and la
 [Yan Gu](https://github.com/drow931) (China Literature Limited)  
 Weiyu Chen (China Literature Limited)  
 
-### Technical Team 🧑‍🏫 
+### Technical Team 🧑‍🏫
 [Jiahao Xu](https://lemaoliu.github.io/homepage/lat.html) (Tencent AI Lab)
 [Wenxiang Jiao](https://wxjiao.github.io/) (Tencent AI Lab)
 [Xiang Wang](https://www.xingwang4nlp.com/) (Tencent AI Lab)
+
 
 ### Contact ☎️ 
 If you have any further questions or suggestions, please do not hesitate to send an email to **Longyue Wang (vincentwang0229@gmail.com or vinnylywang@tencent.com)**.
