@@ -100,7 +100,7 @@ Download Link: https://github.com/longyuewangdcu/GuoFeng-Webnovel.
   <img src="/img/data-create.jpg" alt="Logo" width="300">
 </div>
 
-## Data Description (GuoFeng Webnovel Corpus V1)
+## Data Description (GuoFeng Webnovel Corpus V1) 1️⃣
 
 ### **Chinese→English**
 
@@ -132,7 +132,7 @@ At a park during sunset, a childlike, handsome youth placed his left hand on his
 </BOOK>
 ```
 
-## Data Description (GuoFeng Webnovel Corpus V2)
+## Data Description (GuoFeng Webnovel Corpus V2) 2️⃣
 
 We release ~19K continuous chapters from ~120 web novels, covering 14 genres such as fantasy science and romance. **The data are document-level without alignment information**. The data statistics are listed as follows.
 
