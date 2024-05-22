@@ -164,12 +164,16 @@ Li Dai verließ das Prüfungszentrum und bewegte sich durch die dichte Menschenm
 
 ### Domain Distribution 💕
 
+The GuoFeng Webnovel Corpus covers 14 genres such as fantasy science and romance. The detailed statistics are shown as follows.
+
 <div align="center">
   <img src="/img/domain-distribution.jpg" alt="domain" width="600">
 </div>
 
+The word cloud of top words in different langauges is shown as follows.
+
 <div align="center">
-  <img src="/img/word-map.png" alt="word" width="600">
+  <img src="/img/word-map.png" alt="word" width="800">
 </div>
 
 ### Data Download ⏬
