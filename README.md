@@ -34,6 +34,26 @@ GuoFeng Webnovel is a publicly copyrighted, high-quality, discourse-level and mu
 - \[06/05/2023\] 🚀🚀🚀 **GuoFeng Webnovel Corpus V1** is released: a discourse-level dataset with sentence-level alignment for **Chinese→English**. 
 - \[14/04/2023\] WMT23 Shared Task: Discourse-Level Literary Translation
 
+### Overview of GuoFeng Webnovel Corpus 💕
+
+The dataset covers **14 genres** such as fantasy science and romance. The detailed statistics are shown as follows.
+
+<div align="center">
+  <img src="/img/domain-distribution.jpg" alt="domain" width="600">
+</div>
+
+The **word cloud** of high-frequency words in different langauges as shown follows.
+
+<div align="center">
+  <img src="/img/word-map.png" alt="word" width="800">
+</div>
+
+The **data example** sampled from Chinese-English set, and the colored words demonstrate rich linguistic phenomena.
+
+<div align="center">
+  <img src="/img/dis-example.png" alt="word" width="800">
+</div>
+
 ## Copyright and Licence
 Copyright is a crucial consideration when it comes to releasing literary texts, and we (Tencent AI Lab and China Literature Ltd.) are the rightful copyright owners of the web fictions included in this dataset. We are pleased to make this data available to the research community, subject to certain terms and conditions.
 
@@ -162,21 +182,7 @@ Li Dai verließ das Prüfungszentrum und bewegte sich durch die dichte Menschenm
 "Oh, ich habe die Prüfung vergeigt! Eine Chance auf ein Vorstellungsgespräch gibt es sicherlich nicht mehr." Li Dai massierte seine Schläfen, das schwere Gefühl in seinem Kopf wurde immer intensiver.
 ```
 
-### Domain Distribution 💕
-
-The GuoFeng Webnovel Corpus covers 14 genres such as fantasy science and romance. The detailed statistics are shown as follows.
-
-<div align="center">
-  <img src="/img/domain-distribution.jpg" alt="domain" width="600">
-</div>
-
-The word cloud of top words in different langauges is shown as follows.
-
-<div align="center">
-  <img src="/img/word-map.png" alt="word" width="800">
-</div>
-
-### Data Download ⏬
+## Data Download ⏬
 
 🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 8px;">
