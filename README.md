@@ -108,7 +108,7 @@ We release 22,567 continuous chapters from 179 web novels, covering 14 genres su
 
 | Table1   | Book | Chapter | Sentence | Notes |
 | -- | ---- | ------- | -------- | ----- |
-| Train	|179|22,567   |	1,939,187|covering 14 genres |
+| Train	|179|22,567   |	1,939,187| 14 genres |
 | Valid |1	|22       |	22	755	 |same books with Train |
 | Test  |1	|26	      |22	697	   |same books with Train |
 | Valid |2	|10	      |10	853	   |different books with Train |
@@ -138,9 +138,9 @@ We release ~19K continuous chapters from ~120 web novels, covering 14 genres suc
 
 **Chinese→German**
 
-|**Subset** | **# Book**| **# Chapter** | **# Word** | **Notes**|
+|**Subset** | **# Book**| **# Chapter** | **# X Word / CH Char** | **Notes**|
 | -- | ---- | ------- | -------- | ----- |
-|Train | 118 | 19,101 | DE: 25,562,039 | covering 14 genres|
+|Train | 118 | 19,101 | 25,562,039 / 36,790,017 | 14 genres|
 |Valid | -- | -- | -- | --|
 |Test | -- | -- | -- | --|
 |Testing Input | -- | -- | -- | --|
@@ -148,9 +148,9 @@ We release ~19K continuous chapters from ~120 web novels, covering 14 genres suc
 
 **Chinese→Russian**
 
-|**Subset** | **# Book**| **# Chapter** | **# Word** | **Notes**|
+|**Subset** | **# Book**| **# Chapter** | **# X Word / CH Char** | **Notes**|
 | -- | ---- | ------- | -------- | ----- |
-|Train | 122 | 19,971 | RU: 23,521,169 | covering 14 genres|
+|Train | 122 | 19,971 | 23,521,169 / 39,074,007 | 14 genres|
 |Valid | -- | -- | -- | --|
 |Test | -- | -- | -- | --|
 |Testing Input | -- | -- | -- | --|
