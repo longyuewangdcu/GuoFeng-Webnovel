@@ -222,11 +222,11 @@ We provide three types of in-domain pretrained models (same as last year) and la
 
 ## Evaluation 🔢
 
-- 🤖 Automatic Evaluation: To evaluate the performance of the well-trained models, we will report multiple evaluation metrics, including d-BLEU (document-level sacreBLEU), d-COMET (document-level COMET) to measure the overall accuracy and fluency of the translations.
+- 🤖 **Automatic Evaluation**: To evaluate the performance of the well-trained models, we will report multiple evaluation metrics, including d-BLEU (document-level sacreBLEU), d-COMET (document-level COMET) to measure the overall accuracy and fluency of the translations.
 
-- 👩‍🏫 Human Evaluation: Besides, we provide professional translators to assess the translations based on more subjective criteria, such as the preservation of literary style and the overall coherence and cohesiveness of the translated texts. Based on our experience with this project, we designed a fine-grained error typology and marking MQM criteria for literary MT.
+- 👩‍🏫 **Human Evaluation**: Besides, we provide professional translators to assess the translations based on more subjective criteria, such as the preservation of literary style and the overall coherence and cohesiveness of the translated texts. Based on our experience with this project, we designed a fine-grained error typology and marking MQM criteria for literary MT.
 
-- 👨‍👩‍👧‍👦 A/B Testing: Acknowledging the concern that there is no single, universally preferred translation for literary texts, we ask human readers or LLMs to select their preferred contents in practical application scenarios.
+- 👨‍👩‍👧‍👦 **A/B Testing**: Acknowledging the concern that there is no single, universally preferred translation for literary texts, we ask human readers or LLMs to select their preferred contents in practical application scenarios.
 
 ## Committee 
 ### Data Team 🧑🏻‍💼
@@ -236,7 +236,9 @@ We provide three types of in-domain pretrained models (same as last year) and la
 Weiyu Chen (China Literature Limited)  
 
 ### Technical Team 🧑‍🏫 
-[Jiahao Xu](https://lemaoliu.github.io/homepage/lat.html) (Tencent AI Lab) 
+[Jiahao Xu](https://lemaoliu.github.io/homepage/lat.html) (Tencent AI Lab)
+[Wenxiang Jiao](https://wxjiao.github.io/) (Tencent AI Lab)
+[Xiang Wang](https://www.xingwang4nlp.com/) (Tencent AI Lab)
 
 ### Contact ☎️ 
 If you have any further questions or suggestions, please do not hesitate to send an email to **Longyue Wang (vincentwang0229@gmail.com or vinnylywang@tencent.com)**.
