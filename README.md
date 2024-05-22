@@ -234,9 +234,9 @@ The GuoFeng Webnovel Corpus V1 and V2 can be download via **Github**: (1) **Go t
 Weiyu Chen (China Literature Limited)  
 
 ### Technical Team 🧑‍🏫
-[Jiahao Xu](https://lemaoliu.github.io/homepage/lat.html) (Tencent AI Lab)
-[Wenxiang Jiao](https://wxjiao.github.io/) (Tencent AI Lab)
-[Xiang Wang](https://www.xingwang4nlp.com/) (Tencent AI Lab)
+[Jiahao Xu](https://lemaoliu.github.io/homepage/lat.html) (Tencent AI Lab)  
+[Wenxiang Jiao](https://wxjiao.github.io/) (Tencent AI Lab)  
+[Xiang Wang](https://www.xingwang4nlp.com/) (Tencent AI Lab)  
 
 
 ### Contact ☎️ 
