@@ -51,7 +51,7 @@ The **word cloud** of high-frequency words in different langauges as shown follo
 The **data example** sampled from Chinese-English set, and the colored words demonstrate rich linguistic phenomena.
 
 <div align="center">
-  <img src="/img/dis-example.png" alt="word" width="800">
+  <img src="/img/dis-example.png" alt="word" width="500">
 </div>
 
 ## Copyright and Licence
