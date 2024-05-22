@@ -162,6 +162,16 @@ Li Dai verließ das Prüfungszentrum und bewegte sich durch die dichte Menschenm
 "Oh, ich habe die Prüfung vergeigt! Eine Chance auf ein Vorstellungsgespräch gibt es sicherlich nicht mehr." Li Dai massierte seine Schläfen, das schwere Gefühl in seinem Kopf wurde immer intensiver.
 ```
 
+### Domain Distribution 💕
+
+<div align="center">
+  <img src="/img/domain-distribution.jpg" alt="domain" width="600">
+</div>
+
+<div align="center">
+  <img src="/img/word-map.png" alt="word" width="600">
+</div>
+
 ### Data Download ⏬
 
 🎈 <a href="https://forms.gle/YqJPkfLgGmACbnbU6" style="text-decoration: none;">
@@ -210,7 +220,7 @@ We provide three types of in-domain pretrained models (same as last year) and la
 
 ## Committee 
 ### Data Team 🧑🏻‍💼
-[Longyue Wang](http://longyuewang.com/) ([vincentwang0229@gmail.com](mailto:vincentwang0229@gmail.com)) (Tencent AI Lab)  
+[Longyue Wang*](http://longyuewang.com/) ([vincentwang0229@gmail.com](mailto:vincentwang0229@gmail.com)) (Tencent AI Lab)  
 [Zhaopeng Tu](http://www.zptu.net/) (Tencent AI Lab)  
 [Yan Gu](https://github.com/drow931) (China Literature Limited)  
 Weiyu Chen (China Literature Limited)  
@@ -224,7 +234,7 @@ If you have any further questions or suggestions, please do not hesitate to send
 
 ## Sponsors 🙏🙏🙏
 <div align="center">
-  <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="300">
-  <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="300">
+  <img src="/img/literary-translation-task-logo1.png" alt="Logo" width="250">
+  <img src="/img/literary-translation-task-logo2.png" alt="Logo" width="250">
 </div>
 
