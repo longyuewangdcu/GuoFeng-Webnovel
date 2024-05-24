@@ -45,7 +45,7 @@ The dataset covers **14 genres** such as fantasy science and romance. The detail
 The **word cloud** of high-frequency words in different langauges as shown follows.
 
 <div align="center">
-  <img src="/img/word-map.png" alt="word" width="800">
+  <img src="/img/word-map-new.png" alt="word" width="800">
 </div>
 
 The **data example** sampled from Chinese-English set, and the colored words demonstrate rich linguistic phenomena.
