@@ -251,4 +251,4 @@ If you have any further questions or suggestions, please do not hesitate to send
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=longyuewangdcu/GuoFeng-Webnovel&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=longyuewangdcu/GuoFeng-Webnovel&type=Date)
